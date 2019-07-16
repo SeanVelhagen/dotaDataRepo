@@ -1541,78 +1541,79 @@
 6.88d,Most banned in first ban phase,43,0,Bane
 6.88d,Most banned in first ban phase,44,0,Disruptor
 6.88d,Most banned in first ban phase,45,0,Night Stalker
-6.88c,Highest winrate,1,86,Shadow Fiend
-6.88c,Highest winrate,2,75,Bloodseeker
-6.88c,Highest winrate,3,75,Chaos Knight
-6.88c,Highest winrate,4,67,Pugna
-6.88c,Highest winrate,5,67,Leshrac
-6.88c,Highest winrate,6,67,Spirit Breaker
-6.88c,Highest winrate,7,63,Terrorblade
-6.88c,Highest winrate,8,62,Silencer
-6.88c,Highest winrate,9,61,Phantom Assassin
-6.88c,Highest winrate,10,60,Shadow Shaman
-6.88c,Highest winrate,11,60,Lina
-6.88c,Highest winrate,12,60,Templar Assassin
-6.88c,Highest winrate,13,60,Mirana
-6.88c,Highest winrate,14,60,Earthshaker
-6.88c,Highest winrate,15,59,Batrider
-6.88c,Highest winrate,16,59,Dazzle
-6.88c,Highest winrate,17,59,Warlock
-6.88c,Highest winrate,18,58,Centaur Warrunner
-6.88c,Highest winrate,19,58,Io
-6.88c,Highest winrate,20,58,Slardar
-6.88c,Highest winrate,21,57,Undying
-6.88c,Highest winrate,22,57,Luna
-6.88c,Highest winrate,23,57,Keeper of the Light
-6.88c,Highest winrate,24,57,Axe
-6.88c,Highest winrate,25,57,Winter Wyvern
-6.88c,Highest winrate,26,57,Spectre
-6.88c,Highest winrate,27,56,Jakiro
-6.88c,Highest winrate,28,56,Outworld Devourer
-6.88c,Highest winrate,29,56,Sniper
+6.88c,Highest winrate,1,00,Death Prophet
+6.88c,Highest winrate,2,80,Shadow Shaman
+6.88c,Highest winrate,3,75,Zeus
+6.88c,Highest winrate,4,75,Phantom Lancer
+6.88c,Highest winrate,5,75,Terrorblade
+6.88c,Highest winrate,6,71,Omniknight
+6.88c,Highest winrate,7,70,Skywrath Mage
+6.88c,Highest winrate,8,68,Undying
+6.88c,Highest winrate,9,67,Meepo
+6.88c,Highest winrate,10,67,Luna
+6.88c,Highest winrate,11,64,Outworld Devourer
+6.88c,Highest winrate,12,63,Magnus
+6.88c,Highest winrate,13,62,Dazzle
+6.88c,Highest winrate,14,60,Sand King
+6.88c,Highest winrate,15,60,Viper
+6.88c,Highest winrate,16,60,Sven
+6.88c,Highest winrate,17,60,Tidehunter
+6.88c,Highest winrate,18,60,Chaos Knight
+6.88c,Highest winrate,19,60,Rubick
+6.88c,Highest winrate,20,59,Morphling
+6.88c,Highest winrate,21,59,Tinker
+6.88c,Highest winrate,22,58,Naga Siren
+6.88c,Highest winrate,23,58,Mirana
+6.88c,Highest winrate,24,58,Templar Assassin
+6.88c,Highest winrate,25,58,Anti-Mage
+6.88c,Highest winrate,26,58,Tiny
+6.88c,Highest winrate,27,57,Ursa Warrior
+6.88c,Highest winrate,28,56,Spirit Breaker
+6.88c,Highest winrate,29,56,Slardar
 6.88c,Highest winrate,30,56,Lifestealer
-6.88c,Highest winrate,31,56,Elder Titan
-6.88c,Highest winrate,32,56,Bounty Hunter
-6.88c,Highest winrate,33,56,Meepo
-6.88c,Highest winrate,34,56,Death Prophet
-6.88c,Highest winrate,35,55,Tiny
-6.88c,Highest winrate,36,54,Medusa
-6.88c,Highest winrate,37,54,Shadow Demon
-6.88c,Highest winrate,38,54,Juggernaut
-6.88c,Highest winrate,39,53,Witch Doctor
-6.88c,Highest winrate,40,53,Naga Siren
-6.88c,Highest winrate,41,53,Huskar
-6.88c,Highest winrate,42,53,Kunkka
-6.88c,Highest winrate,43,52,Morphling
-6.88c,Highest winrate,44,50,Drow Ranger
-6.88c,Highest winrate,45,50,Anti-Mage
-6.88c,Highest winrate,46,50,Chen
-6.88c,Highest winrate,47,50,Clinkz
-6.88c,Highest winrate,48,50,Phoenix
-6.88c,Highest winrate,49,50,Viper
-6.88c,Highest winrate,50,50,Beastmaster
-6.88c,Highest winrate,51,50,Magnus
-6.88c,Highest winrate,52,50,Bane
-6.88c,Highest winrate,53,50,Nyx Assassin
-6.88c,Highest winrate,54,50,Troll Warlord
-6.88c,Highest winrate,55,49,Puck
-6.88c,Highest winrate,56,48,Invoker
-6.88c,Highest winrate,57,48,Timbersaw
-6.88c,Highest winrate,58,47,Faceless Void
-6.88c,Highest winrate,59,46,Omniknight
-6.88c,Highest winrate,60,46,Skywrath Mage
-6.88c,Highest winrate,61,46,Night Stalker
-6.88c,Highest winrate,62,45,Dragon Knight
-6.88c,Highest winrate,63,45,Disruptor
-6.88c,Highest winrate,64,45,Ursa Warrior
-6.88c,Highest winrate,65,45,Oracle
-6.88c,Highest winrate,66,45,Clockwerk
-6.88c,Highest winrate,67,44,Sand King
-6.88c,Highest winrate,68,43,Queen of Pain
-6.88c,Highest winrate,69,43,Visage
-6.88c,Highest winrate,70,43,Razor
-6.88c,Highest winrate,71,43,Vengeful Spirit
-6.88c,Highest winrate,72,42,Enchantress
+6.88c,Highest winrate,31,55,Io
+6.88c,Highest winrate,32,55,Bounty Hunter
+6.88c,Highest winrate,33,55,Kunkka
+6.88c,Highest winrate,34,54,Storm Spirit
+6.88c,Highest winrate,35,53,Huskar
+6.88c,Highest winrate,36,53,Phantom Assassin
+6.88c,Highest winrate,37,53,Lion
+6.88c,Highest winrate,38,53,Puck
+6.88c,Highest winrate,39,52,Vengeful Spirit
+6.88c,Highest winrate,40,51,Drow Ranger
+6.88c,Highest winrate,41,50,Shadow Demon
+6.88c,Highest winrate,42,50,Juggernaut
+6.88c,Highest winrate,43,50,Winter Wyvern
+6.88c,Highest winrate,44,50,Invoker
+6.88c,Highest winrate,45,50,Legion Commander
+6.88c,Highest winrate,46,50,Earthshaker
+6.88c,Highest winrate,47,49,Batrider
+6.88c,Highest winrate,48,48,Ogre Magi
+6.88c,Highest winrate,49,48,Faceless Void
+6.88c,Highest winrate,50,46,Axe
+6.88c,Highest winrate,51,45,Ancient Apparition
+6.88c,Highest winrate,52,45,Witch Doctor
+6.88c,Highest winrate,53,43,Disruptor
+6.88c,Highest winrate,54,43,Elder Titan
+6.88c,Highest winrate,55,43,Oracle
+6.88c,Highest winrate,56,41,Nyx Assassin
+6.88c,Highest winrate,57,40,Riki
+6.88c,Highest winrate,58,40,Lina
+6.88c,Highest winrate,59,40,Ember Spirit
+6.88c,Highest winrate,60,40,Keeper of the Light
+6.88c,Highest winrate,61,40,Enchantress
+6.88c,Highest winrate,62,39,Earth Spirit
+6.88c,Highest winrate,63,39,Timbersaw
+6.88c,Highest winrate,64,38,Medusa
+6.88c,Highest winrate,65,38,Centaur Warrunner
+6.88c,Highest winrate,66,36,Beastmaster
+6.88c,Highest winrate,67,35,Alchemist
+6.88c,Highest winrate,68,33,Bane
+6.88c,Highest winrate,69,33,Lich
+6.88c,Highest winrate,70,33,Night Stalker
+6.88c,Highest winrate,71,33,Pudge
+6.88c,Highest winrate,72,33,Clinkz
+6.88c,Highest winrate,73,31,Dark Seer
 6.88c,Highest winrate,74,30,Queen of Pain
 6.88c,Highest winrate,75,30,Weaver
 6.88c,Highest winrate,76,27,Razor
@@ -1951,85 +1952,113 @@
 6.88c,Most banned in first ban phase,31,1,Invoker
 6.88c,Most banned in first ban phase,32,1,Tinker
 6.88c,Most banned in first ban phase,33,1,Keeper of the Light
-6.88b,Highest winrate,1,00,Death Prophet
-6.88b,Highest winrate,2,80,Shadow Shaman
-6.88b,Highest winrate,3,75,Zeus
-6.88b,Highest winrate,4,75,Phantom Lancer
-6.88b,Highest winrate,5,75,Terrorblade
-6.88b,Highest winrate,6,71,Omniknight
-6.88b,Highest winrate,7,70,Skywrath Mage
-6.88b,Highest winrate,8,68,Undying
-6.88b,Highest winrate,9,67,Meepo
-6.88b,Highest winrate,10,67,Luna
-6.88b,Highest winrate,11,64,Outworld Devourer
-6.88b,Highest winrate,12,63,Magnus
-6.88b,Highest winrate,13,62,Dazzle
-6.88b,Highest winrate,14,60,Sand King
-6.88b,Highest winrate,15,60,Viper
-6.88b,Highest winrate,16,60,Sven
-6.88b,Highest winrate,17,60,Tidehunter
-6.88b,Highest winrate,18,60,Chaos Knight
-6.88b,Highest winrate,19,60,Rubick
-6.88b,Highest winrate,20,59,Morphling
-6.88b,Highest winrate,21,59,Tinker
-6.88b,Highest winrate,22,58,Naga Siren
-6.88b,Highest winrate,23,58,Mirana
-6.88b,Highest winrate,24,58,Templar Assassin
-6.88b,Highest winrate,25,58,Anti-Mage
-6.88b,Highest winrate,26,58,Tiny
-6.88b,Highest winrate,27,57,Ursa Warrior
-6.88b,Highest winrate,28,56,Spirit Breaker
-6.88b,Highest winrate,29,56,Slardar
-6.88b,Highest winrate,30,56,Lifestealer
-6.88b,Highest winrate,31,55,Io
-6.88b,Highest winrate,32,55,Bounty Hunter
-6.88b,Highest winrate,33,55,Kunkka
-6.88b,Highest winrate,34,54,Storm Spirit
-6.88b,Highest winrate,35,53,Huskar
-6.88b,Highest winrate,36,53,Phantom Assassin
-6.88b,Highest winrate,37,53,Lion
-6.88b,Highest winrate,38,53,Puck
-6.88b,Highest winrate,39,52,Vengeful Spirit
-6.88b,Highest winrate,40,51,Drow Ranger
-6.88b,Highest winrate,41,50,Shadow Demon
-6.88b,Highest winrate,42,50,Juggernaut
-6.88b,Highest winrate,43,50,Winter Wyvern
-6.88b,Highest winrate,44,50,Invoker
-6.88b,Highest winrate,45,50,Legion Commander
-6.88b,Highest winrate,46,50,Earthshaker
-6.88b,Highest winrate,47,49,Batrider
-6.88b,Highest winrate,48,48,Ogre Magi
-6.88b,Highest winrate,49,48,Faceless Void
-6.88b,Highest winrate,50,46,Axe
-6.88b,Highest winrate,51,45,Ancient Apparition
-6.88b,Highest winrate,52,45,Witch Doctor
-6.88b,Highest winrate,53,43,Disruptor
-6.88b,Highest winrate,54,43,Elder Titan
-6.88b,Highest winrate,55,43,Oracle
-6.88b,Highest winrate,56,41,Nyx Assassin
-6.88b,Highest winrate,57,40,Riki
-6.88b,Highest winrate,58,40,Lina
-6.88b,Highest winrate,59,40,Ember Spirit
-6.88b,Highest winrate,60,40,Keeper of the Light
-6.88b,Highest winrate,61,40,Enchantress
-6.88b,Highest winrate,62,39,Earth Spirit
-6.88b,Highest winrate,63,39,Timbersaw
-6.88b,Highest winrate,64,38,Medusa
-6.88b,Highest winrate,65,38,Centaur Warrunner
-6.88b,Highest winrate,66,36,Beastmaster
-6.88b,Highest winrate,67,35,Alchemist
-6.88b,Highest winrate,68,33,Bane
-6.88b,Highest winrate,69,33,Lich
-6.88b,Highest winrate,70,33,Night Stalker
-6.88b,Highest winrate,71,33,Pudge
-6.88b,Highest winrate,72,33,Clinkz
-6.88b,Highest winrate,73,31,Dark Seer
-6.88b,Highest winrate,74,30,Queen of Pain
-6.88b,Highest winrate,75,30,Weaver
-6.88b,Highest winrate,76,27,Razor
-6.88b,Highest winrate,77,27,Slark
-6.88b,Highest winrate,78,25,Shadow Fiend
-6.88b,Highest winrate,79,20,Silencer
+6.88b,Highest winrate,1,71,Zeus
+6.88b,Highest winrate,2,69,Bristleback
+6.88b,Highest winrate,3,68,Abaddon
+6.88b,Highest winrate,4,65,Sand King
+6.88b,Highest winrate,5,65,Lone Druid
+6.88b,Highest winrate,6,65,Shadow Fiend
+6.88b,Highest winrate,7,64,Meepo
+6.88b,Highest winrate,8,63,Chen
+6.88b,Highest winrate,9,63,Undying
+6.88b,Highest winrate,10,63,Venomancer
+6.88b,Highest winrate,11,61,Phantom Assassin
+6.88b,Highest winrate,12,61,Nyx Assassin
+6.88b,Highest winrate,13,60,Necrophos
+6.88b,Highest winrate,14,60,Chaos Knight
+6.88b,Highest winrate,15,60,Luna
+6.88b,Highest winrate,16,60,Brewmaster
+6.88b,Highest winrate,17,59,Medusa
+6.88b,Highest winrate,18,58,Silencer
+6.88b,Highest winrate,19,57,Crystal Maiden
+6.88b,Highest winrate,20,57,Spirit Breaker
+6.88b,Highest winrate,21,57,Broodmother
+6.88b,Highest winrate,22,56,Templar Assassin
+6.88b,Highest winrate,23,56,Ancient Apparition
+6.88b,Highest winrate,24,56,Puck
+6.88b,Highest winrate,25,56,Io
+6.88b,Highest winrate,26,56,Warlock
+6.88b,Highest winrate,27,56,Axe
+6.88b,Highest winrate,28,56,Enigma
+6.88b,Highest winrate,29,56,Ursa Warrior
+6.88b,Highest winrate,30,56,Centaur Warrunner
+6.88b,Highest winrate,31,55,Elder Titan
+6.88b,Highest winrate,32,55,Tusk
+6.88b,Highest winrate,33,55,Outworld Devourer
+6.88b,Highest winrate,34,55,Huskar
+6.88b,Highest winrate,35,55,Omniknight
+6.88b,Highest winrate,36,55,Naga Siren
+6.88b,Highest winrate,37,55,Magnus
+6.88b,Highest winrate,38,54,Shadow Demon
+6.88b,Highest winrate,39,54,Slardar
+6.88b,Highest winrate,40,54,Kunkka
+6.88b,Highest winrate,41,54,Bounty Hunter
+6.88b,Highest winrate,42,53,Shadow Shaman
+6.88b,Highest winrate,43,53,Morphling
+6.88b,Highest winrate,44,53,Sven
+6.88b,Highest winrate,45,53,Razor
+6.88b,Highest winrate,46,53,Drow Ranger
+6.88b,Highest winrate,47,53,Lina
+6.88b,Highest winrate,48,53,Oracle
+6.88b,Highest winrate,49,53,Keeper of the Light
+6.88b,Highest winrate,50,52,Ogre Magi
+6.88b,Highest winrate,51,52,Juggernaut
+6.88b,Highest winrate,52,52,Mirana
+6.88b,Highest winrate,53,52,Tiny
+6.88b,Highest winrate,54,50,Leshrac
+6.88b,Highest winrate,55,50,Bloodseeker
+6.88b,Highest winrate,56,50,Skywrath Mage
+6.88b,Highest winrate,57,50,Dazzle
+6.88b,Highest winrate,58,49,Lifestealer
+6.88b,Highest winrate,59,49,Invoker
+6.88b,Highest winrate,60,49,Death Prophet
+6.88b,Highest winrate,61,49,Faceless Void
+6.88b,Highest winrate,62,49,Winter Wyvern
+6.88b,Highest winrate,63,48,Tidehunter
+6.88b,Highest winrate,64,48,Vengeful Spirit
+6.88b,Highest winrate,65,48,Rubick
+6.88b,Highest winrate,66,48,Anti-Mage
+6.88b,Highest winrate,67,48,Batrider
+6.88b,Highest winrate,68,47,Witch Doctor
+6.88b,Highest winrate,69,47,Storm Spirit
+6.88b,Highest winrate,70,46,Viper
+6.88b,Highest winrate,71,45,Timbersaw
+6.88b,Highest winrate,72,44,Alchemist
+6.88b,Highest winrate,73,44,Disruptor
+6.88b,Highest winrate,74,44,Beastmaster
+6.88b,Highest winrate,75,44,Gyrocopter
+6.88b,Highest winrate,76,44,Terrorblade
+6.88b,Highest winrate,77,44,Weaver
+6.88b,Highest winrate,78,44,Earth Spirit
+6.88b,Highest winrate,79,44,Ember Spirit
+6.88b,Highest winrate,80,44,Dragon Knight
+6.88b,Highest winrate,81,43,Tinker
+6.88b,Highest winrate,82,43,Phantom Lancer
+6.88b,Highest winrate,83,43,Clinkz
+6.88b,Highest winrate,84,43,Spectre
+6.88b,Highest winrate,85,42,Slark
+6.88b,Highest winrate,86,42,Enchantress
+6.88b,Highest winrate,87,41,Night Stalker
+6.88b,Highest winrate,88,41,Queen of Pain
+6.88b,Highest winrate,89,41,Nature's Prophet
+6.88b,Highest winrate,90,40,Doom
+6.88b,Highest winrate,91,40,Bane
+6.88b,Highest winrate,92,40,Sniper
+6.88b,Highest winrate,93,40,Riki
+6.88b,Highest winrate,94,39,Dark Seer
+6.88b,Highest winrate,95,39,Windranger
+6.88b,Highest winrate,96,39,Lich
+6.88b,Highest winrate,97,35,Clockwerk
+6.88b,Highest winrate,98,33,Pudge
+6.88b,Highest winrate,99,33,Lion
+6.88b,Highest winrate,100,33,Legion Commander
+6.88b,Highest winrate,101,31,Earthshaker
+6.88b,Highest winrate,102,31,Lycan
+6.88b,Highest winrate,103,31,Visage
+6.88b,Highest winrate,104,28,Phoenix
+6.88b,Highest winrate,105,25,Pugna
+6.88b,Highest winrate,106,25,Wraith King
+6.88b,Highest winrate,107,20,Jakiro
 6.88b,Most picked,1,39,Shadow Demon
 6.88b,Most picked,2,37,Mirana
 6.88b,Most picked,3,34,Batrider
@@ -2462,61 +2491,60 @@
 6.88b,Most banned in first ban phase,69,0,Shadow Shaman
 6.88b,Most banned in first ban phase,70,0,Ursa Warrior
 6.88b,Most banned in first ban phase,71,0,Ancient Apparition
-6.88,Highest winrate,1,78,Ogre Magi
-6.88,Highest winrate,2,72,Luna
-6.88,Highest winrate,3,67,Drow Ranger
-6.88,Highest winrate,4,67,Huskar
-6.88,Highest winrate,5,64,Undying
-6.88,Highest winrate,6,63,Centaur Warrunner
-6.88,Highest winrate,7,63,Terrorblade
-6.88,Highest winrate,8,62,Nyx Assassin
-6.88,Highest winrate,9,62,Shadow Demon
-6.88,Highest winrate,10,62,Keeper of the Light
-6.88,Highest winrate,11,61,Naga Siren
-6.88,Highest winrate,12,61,Bane
-6.88,Highest winrate,13,60,Crystal Maiden
-6.88,Highest winrate,14,59,Skywrath Mage
-6.88,Highest winrate,15,59,Clinkz
-6.88,Highest winrate,16,59,Omniknight
-6.88,Highest winrate,17,58,Zeus
-6.88,Highest winrate,18,58,Batrider
-6.88,Highest winrate,19,57,Spirit Breaker
-6.88,Highest winrate,20,57,Storm Spirit
-6.88,Highest winrate,21,57,Mirana
-6.88,Highest winrate,22,56,Phantom Assassin
-6.88,Highest winrate,23,55,Elder Titan
-6.88,Highest winrate,24,55,Anti-Mage
-6.88,Highest winrate,25,55,Sven
-6.88,Highest winrate,26,54,Dazzle
-6.88,Highest winrate,27,54,Magnus
-6.88,Highest winrate,28,54,Broodmother
-6.88,Highest winrate,29,53,Bounty Hunter
-6.88,Highest winrate,30,53,Templar Assassin
-6.88,Highest winrate,31,53,Troll Warlord
-6.88,Highest winrate,32,53,Lone Druid
-6.88,Highest winrate,33,53,Io
-6.88,Highest winrate,34,52,Timbersaw
-6.88,Highest winrate,35,52,Riki
-6.88,Highest winrate,36,52,Faceless Void
-6.88,Highest winrate,37,51,Witch Doctor
-6.88,Highest winrate,38,51,Vengeful Spirit
-6.88,Highest winrate,39,51,Death Prophet
-6.88,Highest winrate,40,51,Alchemist
-6.88,Highest winrate,41,50,Chaos Knight
-6.88,Highest winrate,42,50,Warlock
-6.88,Highest winrate,43,50,Viper
-6.88,Highest winrate,44,50,Tidehunter
-6.88,Highest winrate,45,50,Dragon Knight
-6.88,Highest winrate,46,50,Treant Protector
-6.88,Highest winrate,47,50,Clockwerk
-6.88,Highest winrate,48,50,Legion Commander
-6.88,Highest winrate,49,50,Bloodseeker
-6.88,Highest winrate,50,50,Juggernaut
-6.88,Highest winrate,51,50,Earth Spirit
-6.88,Highest winrate,52,49,Ancient Apparition
-6.88,Highest winrate,53,49,Lion
-6.88,Highest winrate,54,49,Beastmaster
-6.88,Highest winrate,55,48,Dark Seer
+6.88,Highest winrate,1,71,Zeus
+6.88,Highest winrate,2,69,Bristleback
+6.88,Highest winrate,3,68,Abaddon
+6.88,Highest winrate,4,65,Sand King
+6.88,Highest winrate,5,65,Lone Druid
+6.88,Highest winrate,6,65,Shadow Fiend
+6.88,Highest winrate,7,64,Meepo
+6.88,Highest winrate,8,63,Chen
+6.88,Highest winrate,9,63,Undying
+6.88,Highest winrate,10,63,Venomancer
+6.88,Highest winrate,11,61,Phantom Assassin
+6.88,Highest winrate,12,61,Nyx Assassin
+6.88,Highest winrate,13,60,Necrophos
+6.88,Highest winrate,14,60,Chaos Knight
+6.88,Highest winrate,15,60,Luna
+6.88,Highest winrate,16,60,Brewmaster
+6.88,Highest winrate,17,59,Medusa
+6.88,Highest winrate,18,58,Silencer
+6.88,Highest winrate,19,57,Crystal Maiden
+6.88,Highest winrate,20,57,Spirit Breaker
+6.88,Highest winrate,21,57,Broodmother
+6.88,Highest winrate,22,56,Templar Assassin
+6.88,Highest winrate,23,56,Ancient Apparition
+6.88,Highest winrate,24,56,Puck
+6.88,Highest winrate,25,56,Io
+6.88,Highest winrate,26,56,Warlock
+6.88,Highest winrate,27,56,Axe
+6.88,Highest winrate,28,56,Enigma
+6.88,Highest winrate,29,56,Ursa Warrior
+6.88,Highest winrate,30,56,Centaur Warrunner
+6.88,Highest winrate,31,55,Elder Titan
+6.88,Highest winrate,32,55,Tusk
+6.88,Highest winrate,33,55,Outworld Devourer
+6.88,Highest winrate,34,55,Huskar
+6.88,Highest winrate,35,55,Omniknight
+6.88,Highest winrate,36,55,Naga Siren
+6.88,Highest winrate,37,55,Magnus
+6.88,Highest winrate,38,54,Shadow Demon
+6.88,Highest winrate,39,54,Slardar
+6.88,Highest winrate,40,54,Kunkka
+6.88,Highest winrate,41,54,Bounty Hunter
+6.88,Highest winrate,42,53,Shadow Shaman
+6.88,Highest winrate,43,53,Morphling
+6.88,Highest winrate,44,53,Sven
+6.88,Highest winrate,45,53,Razor
+6.88,Highest winrate,46,53,Drow Ranger
+6.88,Highest winrate,47,53,Lina
+6.88,Highest winrate,48,53,Oracle
+6.88,Highest winrate,49,53,Keeper of the Light
+6.88,Highest winrate,50,52,Ogre Magi
+6.88,Highest winrate,51,52,Juggernaut
+6.88,Highest winrate,52,52,Mirana
+6.88,Highest winrate,53,52,Tiny
+6.88,Highest winrate,54,50,Leshrac
 6.88,Highest winrate,56,48,Invoker
 6.88,Highest winrate,57,48,Tinker
 6.88,Highest winrate,58,48,Slardar
@@ -2995,85 +3023,84 @@
 6.88,Most banned in first ban phase,58,0,Bloodseeker
 6.88,Most banned in first ban phase,59,0,Nyx Assassin
 6.88,Most banned in first ban phase,60,0,Nature's Prophet
-6.87,Highest winrate,1,80,Meepo
-6.87,Highest winrate,2,65,Enigma
-6.87,Highest winrate,3,63,Riki
-6.87,Highest winrate,4,62,Lycan
-6.87,Highest winrate,5,61,Jakiro
-6.87,Highest winrate,6,61,Ancient Apparition
-6.87,Highest winrate,7,61,Clinkz
-6.87,Highest winrate,8,61,Wraith King
-6.87,Highest winrate,9,59,Shadow Fiend
-6.87,Highest winrate,10,58,Crystal Maiden
-6.87,Highest winrate,11,58,Drow Ranger
-6.87,Highest winrate,12,58,Lifestealer
-6.87,Highest winrate,13,58,Beastmaster
-6.87,Highest winrate,14,57,Spirit Breaker
-6.87,Highest winrate,15,56,Disruptor
-6.87,Highest winrate,16,56,Necrophos
-6.87,Highest winrate,17,55,Io
-6.87,Highest winrate,18,55,Bounty Hunter
-6.87,Highest winrate,19,55,Clockwerk
-6.87,Highest winrate,20,54,Dragon Knight
-6.87,Highest winrate,21,54,Templar Assassin
-6.87,Highest winrate,22,54,Invoker
-6.87,Highest winrate,23,54,Queen of Pain
-6.87,Highest winrate,24,53,Elder Titan
-6.87,Highest winrate,25,53,Lone Druid
-6.87,Highest winrate,26,53,Tidehunter
-6.87,Highest winrate,27,53,Slardar
-6.87,Highest winrate,28,52,Nyx Assassin
-6.87,Highest winrate,29,52,Weaver
-6.87,Highest winrate,30,51,Earth Spirit
-6.87,Highest winrate,31,51,Vengeful Spirit
-6.87,Highest winrate,32,51,Winter Wyvern
-6.87,Highest winrate,33,51,Viper
-6.87,Highest winrate,34,51,Death Prophet
-6.87,Highest winrate,35,51,Slark
-6.87,Highest winrate,36,50,Faceless Void
-6.87,Highest winrate,37,50,Lion
-6.87,Highest winrate,38,50,Bane
-6.87,Highest winrate,39,50,Lich
-6.87,Highest winrate,40,50,Ursa Warrior
-6.87,Highest winrate,41,50,Bristleback
-6.87,Highest winrate,42,50,Kunkka
-6.87,Highest winrate,43,50,Sven
-6.87,Highest winrate,44,49,Phoenix
-6.87,Highest winrate,45,49,Mirana
-6.87,Highest winrate,46,49,Doom
-6.87,Highest winrate,47,49,Alchemist
-6.87,Highest winrate,48,49,Juggernaut
-6.87,Highest winrate,49,49,Gyrocopter
-6.87,Highest winrate,50,49,Dark Seer
-6.87,Highest winrate,51,48,Undying
-6.87,Highest winrate,52,48,Huskar
-6.87,Highest winrate,53,48,Spectre
-6.87,Highest winrate,54,48,Sand King
-6.87,Highest winrate,55,48,Puck
-6.87,Highest winrate,56,48,Broodmother
-6.87,Highest winrate,57,48,Dazzle
-6.87,Highest winrate,58,48,Tinker
-6.87,Highest winrate,59,47,Magnus
-6.87,Highest winrate,60,47,Centaur Warrunner
-6.87,Highest winrate,61,47,Naga Siren
-6.87,Highest winrate,62,47,Nature's Prophet
-6.87,Highest winrate,63,47,Rubick
-6.87,Highest winrate,64,47,Morphling
-6.87,Highest winrate,65,47,Venomancer
-6.87,Highest winrate,66,47,Timbersaw
-6.87,Highest winrate,67,46,Ember Spirit
-6.87,Highest winrate,68,45,Shadow Shaman
-6.87,Highest winrate,69,45,Batrider
-6.87,Highest winrate,70,45,Tiny
-6.87,Highest winrate,71,45,Oracle
-6.87,Highest winrate,72,45,Abaddon
-6.87,Highest winrate,73,45,Lina
-6.87,Highest winrate,74,45,Enchantress
-6.87,Highest winrate,75,44,Medusa
-6.87,Highest winrate,76,44,Skywrath Mage
-6.87,Highest winrate,77,44,Witch Doctor
-6.87,Highest winrate,78,44,Luna
-6.87,Highest winrate,79,44,Anti-Mage
+6.87,Highest winrate,1,78,Ogre Magi
+6.87,Highest winrate,2,72,Luna
+6.87,Highest winrate,3,67,Drow Ranger
+6.87,Highest winrate,4,67,Huskar
+6.87,Highest winrate,5,64,Undying
+6.87,Highest winrate,6,63,Centaur Warrunner
+6.87,Highest winrate,7,63,Terrorblade
+6.87,Highest winrate,8,62,Nyx Assassin
+6.87,Highest winrate,9,62,Shadow Demon
+6.87,Highest winrate,10,62,Keeper of the Light
+6.87,Highest winrate,11,61,Naga Siren
+6.87,Highest winrate,12,61,Bane
+6.87,Highest winrate,13,60,Crystal Maiden
+6.87,Highest winrate,14,59,Skywrath Mage
+6.87,Highest winrate,15,59,Clinkz
+6.87,Highest winrate,16,59,Omniknight
+6.87,Highest winrate,17,58,Zeus
+6.87,Highest winrate,18,58,Batrider
+6.87,Highest winrate,19,57,Spirit Breaker
+6.87,Highest winrate,20,57,Storm Spirit
+6.87,Highest winrate,21,57,Mirana
+6.87,Highest winrate,22,56,Phantom Assassin
+6.87,Highest winrate,23,55,Elder Titan
+6.87,Highest winrate,24,55,Anti-Mage
+6.87,Highest winrate,25,55,Sven
+6.87,Highest winrate,26,54,Dazzle
+6.87,Highest winrate,27,54,Magnus
+6.87,Highest winrate,28,54,Broodmother
+6.87,Highest winrate,29,53,Bounty Hunter
+6.87,Highest winrate,30,53,Templar Assassin
+6.87,Highest winrate,31,53,Troll Warlord
+6.87,Highest winrate,32,53,Lone Druid
+6.87,Highest winrate,33,53,Io
+6.87,Highest winrate,34,52,Timbersaw
+6.87,Highest winrate,35,52,Riki
+6.87,Highest winrate,36,52,Faceless Void
+6.87,Highest winrate,37,51,Witch Doctor
+6.87,Highest winrate,38,51,Vengeful Spirit
+6.87,Highest winrate,39,51,Death Prophet
+6.87,Highest winrate,40,51,Alchemist
+6.87,Highest winrate,41,50,Chaos Knight
+6.87,Highest winrate,42,50,Warlock
+6.87,Highest winrate,43,50,Viper
+6.87,Highest winrate,44,50,Tidehunter
+6.87,Highest winrate,45,50,Dragon Knight
+6.87,Highest winrate,46,50,Treant Protector
+6.87,Highest winrate,47,50,Clockwerk
+6.87,Highest winrate,48,50,Legion Commander
+6.87,Highest winrate,49,50,Bloodseeker
+6.87,Highest winrate,50,50,Juggernaut
+6.87,Highest winrate,51,50,Earth Spirit
+6.87,Highest winrate,52,49,Ancient Apparition
+6.87,Highest winrate,53,49,Lion
+6.87,Highest winrate,54,49,Beastmaster
+6.87,Highest winrate,55,48,Dark Seer
+6.87,Highest winrate,56,48,Invoker
+6.87,Highest winrate,57,48,Tinker
+6.87,Highest winrate,58,48,Slardar
+6.87,Highest winrate,59,48,Winter Wyvern
+6.87,Highest winrate,60,48,Shadow Shaman
+6.87,Highest winrate,61,48,Lifestealer
+6.87,Highest winrate,62,47,Silencer
+6.87,Highest winrate,63,47,Slark
+6.87,Highest winrate,64,47,Medusa
+6.87,Highest winrate,65,47,Oracle
+6.87,Highest winrate,66,47,Disruptor
+6.87,Highest winrate,67,47,Lich
+6.87,Highest winrate,68,46,Bristleback
+6.87,Highest winrate,69,46,Axe
+6.87,Highest winrate,70,46,Phoenix
+6.87,Highest winrate,71,46,Venomancer
+6.87,Highest winrate,72,46,Kunkka
+6.87,Highest winrate,73,45,Enigma
+6.87,Highest winrate,74,45,Weaver
+6.87,Highest winrate,75,45,Sniper
+6.87,Highest winrate,76,45,Nature's Prophet
+6.87,Highest winrate,77,44,Enchantress
+6.87,Highest winrate,78,44,Doom
 6.87,Highest winrate,80,44,Brewmaster
 6.87,Highest winrate,81,44,Leshrac
 6.87,Highest winrate,82,43,Windranger
